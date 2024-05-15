@@ -8,7 +8,7 @@ In this competition, I will address when the earthquake will take place. Specifi
 
 If this challenge is solved and the physics are ultimately shown to scale from the laboratory to the field, researchers will have the potential to improve earthquake hazard assessments that could save lives and billions of dollars in infrastructure.
 
-This challenge is hosted by [Los Alamos National Laboratory][https://www.lanl.gov/] which enhances national security by ensuring the safety of the U.S. nuclear stockpile, developing technologies to reduce threats from weapons of mass destruction, and solving problems related to energy, environment, infrastructure, health, and global security concerns.
+This challenge is hosted by [Los Alamos National Laboratory](https://www.lanl.gov/) which enhances national security by ensuring the safety of the U.S. nuclear stockpile, developing technologies to reduce threats from weapons of mass destruction, and solving problems related to energy, environment, infrastructure, health, and global security concerns.
 
 ## Dataset Description
 The goal of this competition is to use seismic signals to predict the timing of laboratory earthquakes. The data comes from a well-known experimental set-up used to study earthquake physics. The acoustic_data input signal is used to predict the time remaining before the next laboratory earthquake (`time_to_failure`).
